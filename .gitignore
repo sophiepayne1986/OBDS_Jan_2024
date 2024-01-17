@@ -1,2 +1,7 @@
 #the following file types will be ignored
+*.bam
+*.sam
+*.fastq
+*.fastq.gz
+
 
